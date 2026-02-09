@@ -1,0 +1,60 @@
+.row1 {
+  margin-bottom: 10px;
+}
+.row2 {
+  margin-bottom: 10px;
+}
+.Button {
+  background-color: lightgray;
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 50px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: black;
+  text-align: center;
+  vertical-align: center;
+}
+.Button:focus {
+  outline: none;
+}
+.Button:hover {
+  background-color: gray;
+}
+
+.winMessage {
+  font-size: 4rem;
+}
+.PVPButton {
+  background-color: lightgray;
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 50px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: black;
+  text-align: center;
+  vertical-align: center;
+  margin-bottom: 10px;
+}
+.ComputerButton {
+  background-color: lightgray;
+  width: 310px;
+  height: 150px;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 50px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: black;
+  text-align: center;
+  vertical-align: center;
+  margin-bottom: 10px;
+}
